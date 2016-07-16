@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3478576162688387
+  lightness: 0.547136582296863
+  rhythmicContrast: 0.579543641654843
+  saturation: 0.8256938459526382
+layout_spectrum: 0.23693476023220383
+name: Mobile photos
+typography_spectrum: 0.077702
